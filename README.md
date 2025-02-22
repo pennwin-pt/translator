@@ -1,2 +1,2 @@
-# translator
+# Translator
 An fancy translator project
